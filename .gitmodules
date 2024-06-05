@@ -1,0 +1,9 @@
+[submodule "mfe1"]
+	path = mfe1
+	url = https://github.com/SvdNeo/mfe1
+[submodule "mfe2"]
+	path = mfe2
+	url = https://github.com/SvdNeo/mfe2
+[submodule "mfe3"]
+	path = mfe3
+	url = https://github.com/SvdNeo/mfe3
